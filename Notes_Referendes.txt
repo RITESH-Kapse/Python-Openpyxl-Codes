@@ -1,0 +1,6 @@
+Other references links :
+
+https://www.iconarchive.com/show/custom-round-yosemite-icons-by-pauloruberto/Python-icon.html
+
+https://openpyxl.readthedocs.io/en/stable/
+
